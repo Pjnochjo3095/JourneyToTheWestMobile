@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591450167710",
+    "firebase_url": "https://roadtothewest-e8d8d.firebaseio.com",
+    "project_id": "roadtothewest-e8d8d",
+    "storage_bucket": "roadtothewest-e8d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591450167710:android:da7db3521b8ece2fa9de8f",
+        "android_client_info": {
+          "package_name": "nhutnhm.se130162.journey_to_west"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591450167710-iu18l3um0v85haq6hh3t6g7jh497rgj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqxJ0YykOHXC4Ls9aMh_nSVqJMZ4E-VnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591450167710-iu18l3um0v85haq6hh3t6g7jh497rgj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
